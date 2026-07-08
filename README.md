@@ -105,22 +105,6 @@ Arduino-Line-Following-Robot/
 
 ---
 
-## 📸 Project Images
-
-### Robot
-
-![Robot](Images/Robot.jpg)
-
-### Circuit Diagram
-
-![Circuit Diagram](Images/Circuit_Diagram.png)
-
-### Flowchart
-
-![Flowchart](Images/Flowchart.png)
-
----
-
 ## 🚀 How to Run
 
 ### Arduino Program
