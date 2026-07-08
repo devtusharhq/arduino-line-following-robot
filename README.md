@@ -29,7 +29,7 @@ The **Arduino-Based Line Following Robot** is an embedded systems project design
 </p>
 
 <p align="center">
-Click the image above to watch the 40-second demonstration video.
+Click the image above to watch the demonstration video.
 </p>
 
 ## 🛠️ Technologies Used
